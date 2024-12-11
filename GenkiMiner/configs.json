@@ -4,8 +4,9 @@
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
-  "isDoTasks": true,
+  "isDoTasks": false,
   "isPlayGames": true,
   "referralCode": "",
-  "amountOfPickAxeUpgrade": 5
+  "amountOfPickAxeUpgrade": 5,
+  "watchAds": true
 }
