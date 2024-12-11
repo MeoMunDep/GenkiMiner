@@ -33,13 +33,17 @@ To get started with the bot, follow these steps:
 ```json
 {
   "timeZone": "en-US",
+  "isSkipInvalidProxy": false,
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
-  "numberOfAccountsRunInOneTime": 100,
-  "isDoTasks": true,
-  "isPlayingGames": true,
-  "referralCode": "" - Your referral code, dont change it if you want to help me ^^
+  "howManyAccountsRunInOneTime": 100,
+  "isDoTasks": false,
+  "isPlayGames": true,
+  "referralCode": "",
+  "amountOfPickAxeUpgrade": 5,
+  "watchAds": true
 }
+
 ```
 
 ### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/6879)
