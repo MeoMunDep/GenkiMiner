@@ -39,7 +39,7 @@ To get started with the bot, follow these steps:
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": false,
   "isPlayGames": true,
-  "referralCode": "",
+  "referralCode": "5-caL4Gb",
   "amountOfPickAxeUpgrade": 5,
   "watchAds": true
 }
@@ -74,6 +74,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `node bot`
+> To run the bot, use the following command: `cd "genkiminer-main/genkiminer"; node bot`
 
 🎇Enjoy!
