@@ -37,7 +37,7 @@ create_default_configs() {
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": false,
   "isPlayGames": true,
-  "referralCode": "",
+  "referralCode": "5-caL4Gb",
   "amountOfPickAxeUpgrade": 5,
   "watchAds": true
 }
