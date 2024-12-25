@@ -62,7 +62,7 @@ if not exist configs.json (
     echo   "howManyAccountsRunInOneTime": 100,>> configs.json
     echo   "isDoTasks": false,>> configs.json
     echo   "isPlayGames": true,>> configs.json
-    echo   "referralCode": "",>> configs.json
+    echo   "referralCode": "5-caL4Gb",>> configs.json
     echo   "amountOfPickAxeUpgrade": 5,>> configs.json
     echo   "watchAds": true>> configs.json
     echo }>> configs.json
