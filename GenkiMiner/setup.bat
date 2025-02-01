@@ -1,5 +1,5 @@
 @echo off
-title Genkiminer Bot
+title Genkiminer Bot by @MeoMunDep
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    Genkiminer BOT SETUP AND RUN SCRIPT
+echo    Genkiminer BOT SETUP AND RUN SCRIPT by @MeoMunDep
 echo =================================================================
 echo.
 echo Current directory: %CD%
@@ -97,7 +97,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd genkiminer && node bot
+node MeoMunDep
 pause
 goto MENU
 
