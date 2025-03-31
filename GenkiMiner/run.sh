@@ -44,7 +44,8 @@ create_default_configs() {
   "amountOfPickAxeUpgrade": 5,
   "claimMiningRewards": true,
   "watchAds": true,
-  "spinning": true
+  "spinning": true,
+  "forgingPickaxe": true
 }
 EOL
 }
