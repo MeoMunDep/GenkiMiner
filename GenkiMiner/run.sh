@@ -42,8 +42,9 @@ create_default_configs() {
   "isPlayGames": true,
   "referralCode": "5-caL4Gb",
   "amountOfPickAxeUpgrade": 5,
-  "claimMiningRewards":true,
-  "watchAds": true
+  "claimMiningRewards": true,
+  "watchAds": true,
+  "spinning": true
 }
 EOL
 }
