@@ -38,10 +38,11 @@ create_default_configs() {
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
-  "isDoTasks": false,
+  "isDoTasks": true,
   "isPlayGames": true,
   "referralCode": "5-caL4Gb",
   "amountOfPickAxeUpgrade": 5,
+  "claimMiningRewards":true,
   "watchAds": true
 }
 EOL
