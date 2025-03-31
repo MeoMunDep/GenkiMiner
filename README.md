@@ -42,16 +42,16 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 {
   "timeZone": "en-US",
   "isSkipInvalidProxy": false,
-  "delayEachAccount": [5, 8],
+  "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
-  "isDoTasks": false,
+  "isDoTasks": true,
   "isPlayGames": true,
   "referralCode": "5-caL4Gb",
   "amountOfPickAxeUpgrade": 5,
+  "claimMiningRewards":true,
   "watchAds": true
 }
-
 ```
 
 ### 2. `datas.txt` 🗂️ - [Get it from here](https://t.me/KeoAirDropFreeNee/1586)
