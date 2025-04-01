@@ -1,5 +1,5 @@
 @echo off
-title Genkiminer Bot by @MeoMunDep
+title GenkiMiner Bot by @MeoMunDep
 color 0A
 
 cd %~dp0
