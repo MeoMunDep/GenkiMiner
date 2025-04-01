@@ -5,7 +5,7 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 NC='\033[0m' 
 
-echo -ne "\033]0;name Bot by @MeoMunDep\007"
+echo -ne "\033]0;GenkiMiner Bot by @MeoMunDep\007"
 
 
 print_green() {
@@ -47,7 +47,8 @@ create_default_configs() {
   "spinning": true,
   "forgingPickaxe": true,
   "battle": true,
-  "howManyBattles": 1
+  "howManyBattles": 20,
+  "sellPickaxe": true
 }
 EOL
 }
