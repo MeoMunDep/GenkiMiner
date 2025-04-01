@@ -49,10 +49,12 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
   "isPlayGames": true,
   "referralCode": "5-caL4Gb",
   "amountOfPickAxeUpgrade": 5,
-  "claimMiningRewards": true,
+  "claimMiningRewards": false,
   "watchAds": true,
   "spinning": true,
-  "forgingPickaxe": true
+  "forgingPickaxe": true,
+  "battle": true,
+  "howManyBattles": 1
 }
 ```
 
