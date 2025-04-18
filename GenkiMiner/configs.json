@@ -1,5 +1,4 @@
 {
-  "timeZone": "en-US",
   "isSkipInvalidProxy": false,
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
