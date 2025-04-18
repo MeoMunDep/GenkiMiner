@@ -33,7 +33,6 @@ fi
 create_default_configs() {
     cat > configs.json << EOL
 {
-  "timeZone": "en-US",
   "isSkipInvalidProxy": false,
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
