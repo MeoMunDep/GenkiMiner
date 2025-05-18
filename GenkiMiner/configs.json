@@ -4,7 +4,7 @@
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
   "isDoTasks": true,
-  "isPlayGames": true,
+  "mining": true,
   "referralCode": "5-caL4Gb",
   "amountOfPickAxeUpgrade": 5,
   "claimMiningRewards": false,
